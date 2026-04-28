@@ -47,4 +47,4 @@ The program uses a menu-driven approach. Users can select options from the menu 
 This project shows how multiple data structures can be combined to build an efficient student management system. It also demonstrates basic CRUD operations and improves understanding of memory management and data handling in C.
 
 📄 Report
-The full project report is included in this repository as report.pdf
+The full project report is included in this repository as Student_Management_System_Report.pdf
