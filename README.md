@@ -34,10 +34,13 @@ The main objective of this project is to understand and apply basic data structu
 ## How the System Works
 The program uses a menu-driven approach. Users can select options from the menu to perform different operations like adding, searching, updating, or deleting student data. When a student is deleted, the data is stored in a stack so it can be restored using the undo option. Recently added students are tracked using a linked list.
 
-## How to Run
-1. Open terminal or command prompt  
-2. Compile the code:
-3. Run the program:
+ 
+ ## How to Run
+1. Compile the program:
+   gcc Student.c -o student
+
+2. Run the program:
+   ./student
 
 ## File Information
 - `Student.c` → Main source code file  
