@@ -9,7 +9,7 @@ Name: Abida Yeasmin Asifa  (ID: 20255103182)
 Name: Sanjidah Afrin       (ID: 20255103185)
 
 
-Name: Humayra Hossan Jeba  (ID: 20255103166)
+Name: Humayra Hossan jeba  (ID: 20255103166)
 
 ## Overview
 This project is a Student Management System developed using the C programming language. It is a simple console-based application that helps to store, manage, and manipulate student information such as ID, name, and marks.
