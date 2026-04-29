@@ -6,7 +6,7 @@
 Name: Abida Yeasmin Asifa  (ID: 20255103182)
 
 
-Name: Sanjidah Afrin       (ID: 20255103185)
+Name: Sanjidah Afrin      (ID: 20255103185)
 
 
 Name: Humayra Hossan jeba  (ID: 20255103166)
